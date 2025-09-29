@@ -42,7 +42,7 @@ $logo = "https://i.ibb.co/pv6gc9Pk/image.png";
 $button = "https://i.ibb.co/TD1DGR9R/daftar-gacor.webp";
 
 // URL with hyphens instead of %20
-$url = 'https://sisformik.atim.ac.id/?rank_ID=' . str_replace(" ", "-", $judul);
+$url = 'https://sisformik.atim.ac.id/sisformik/?rank_ID=' . str_replace(" ", "-", $judul);
 $dftr = "https://t.ly/akun88";
 $amp = 'https://langit-ketujuh.pages.dev/?rank_ID=' . str_replace(" ", "-", $judul);
 
